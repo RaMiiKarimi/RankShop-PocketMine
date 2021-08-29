@@ -1,0 +1,13 @@
+name: rankshop
+author: RaMiiOffiCial
+version: 1.0.0
+api: [3.0.0 , 4.0.0]
+main: RaMiiOffiCial\Main
+
+commands:
+  rankshop:
+    description: §bRankshop By RaMiiOffiCial
+
+permissions:
+  rs.use:
+    default: true
